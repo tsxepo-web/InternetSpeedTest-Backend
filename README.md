@@ -1,7 +1,7 @@
 # MyInternetSpeed
 
-![Api-Design]()
+![Api-Design](https://github.com/tsxepo-web/InternetSpeedTest-Backend/blob/main/design.png)
 
-# URL
+# URLs
 
 Live Url = [Api-Data]()
