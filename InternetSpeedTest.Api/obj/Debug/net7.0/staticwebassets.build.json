@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H0A/io4WgDsZYgi4fOZR9EBl7GOgOqFH2G+H8jo3dVc=",
+  "Source": "InternetSpeedTest.Api",
+  "BasePath": "_content/InternetSpeedTest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

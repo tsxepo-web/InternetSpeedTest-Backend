@@ -1,0 +1,12 @@
+/home/tsxepo/repos/backend-apps/InternetSpeedTest-Backend/InternetSpeedTest.Infrastructure/bin/Debug/net7.0/InternetSpeedTest.Infrastructure.deps.json
+/home/tsxepo/repos/backend-apps/InternetSpeedTest-Backend/InternetSpeedTest.Infrastructure/bin/Debug/net7.0/InternetSpeedTest.Infrastructure.dll
+/home/tsxepo/repos/backend-apps/InternetSpeedTest-Backend/InternetSpeedTest.Infrastructure/bin/Debug/net7.0/InternetSpeedTest.Infrastructure.pdb
+/home/tsxepo/repos/backend-apps/InternetSpeedTest-Backend/InternetSpeedTest.Infrastructure/obj/Debug/net7.0/InternetSpeedTest.Infrastructure.csproj.AssemblyReference.cache
+/home/tsxepo/repos/backend-apps/InternetSpeedTest-Backend/InternetSpeedTest.Infrastructure/obj/Debug/net7.0/InternetSpeedTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/tsxepo/repos/backend-apps/InternetSpeedTest-Backend/InternetSpeedTest.Infrastructure/obj/Debug/net7.0/InternetSpeedTest.Infrastructure.AssemblyInfoInputs.cache
+/home/tsxepo/repos/backend-apps/InternetSpeedTest-Backend/InternetSpeedTest.Infrastructure/obj/Debug/net7.0/InternetSpeedTest.Infrastructure.AssemblyInfo.cs
+/home/tsxepo/repos/backend-apps/InternetSpeedTest-Backend/InternetSpeedTest.Infrastructure/obj/Debug/net7.0/InternetSpeedTest.Infrastructure.csproj.CoreCompileInputs.cache
+/home/tsxepo/repos/backend-apps/InternetSpeedTest-Backend/InternetSpeedTest.Infrastructure/obj/Debug/net7.0/InternetSpeedTest.Infrastructure.dll
+/home/tsxepo/repos/backend-apps/InternetSpeedTest-Backend/InternetSpeedTest.Infrastructure/obj/Debug/net7.0/refint/InternetSpeedTest.Infrastructure.dll
+/home/tsxepo/repos/backend-apps/InternetSpeedTest-Backend/InternetSpeedTest.Infrastructure/obj/Debug/net7.0/InternetSpeedTest.Infrastructure.pdb
+/home/tsxepo/repos/backend-apps/InternetSpeedTest-Backend/InternetSpeedTest.Infrastructure/obj/Debug/net7.0/ref/InternetSpeedTest.Infrastructure.dll
